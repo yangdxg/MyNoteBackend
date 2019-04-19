@@ -1,1 +1,1 @@
-# MyNoteBackend
+# MyNotes
